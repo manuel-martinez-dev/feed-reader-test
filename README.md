@@ -25,7 +25,7 @@ All tests were done with [Jasmine](http://jasmine.github.io).
 
 ## Installation/Getting Started
 
--   Clone the project on github [frontend-nanodegree-feedreader(https://github.com/udacity/frontend-nanodegree-feedreader.git)]
+-   Clone the project on GitHub [frontend-nanodegree-feedreader](https://github.com/udacity/frontend-nanodegree-feedreader.git).
 -   First open the index.html file to see the app.
 -   Check the feeds.
 -   All tests should be done on the feedreader.js file.
@@ -38,6 +38,6 @@ change them.
 # Acknowledgements
 
 -   The Udacity study group
--   Ryan Waite tutorial [FEND Project 4 Feed Reader Testing - Walk Through(https://youtu.be/eUdkhVkpCf8)]
--   Alain Cadenat tutorial [P5(https://youtu.be/pPt4oOKNdEk)]
--   [jasmine - cheatsheet(https://devhints.io/jasmine)]
+-   Ryan Waite tutorial [FEND Project 4 Feed Reader Testing - Walk Through](https://youtu.be/eUdkhVkpCf8)
+-   [Alain Cadenat tutorial](https://youtu.be/pPt4oOKNdEk)
+-   [jasmine - cheatsheet](https://devhints.io/jasmine)
